@@ -1,17 +1,6 @@
-# Landing Page Project
+# Udacity Nanodegree Professional Web Devolpment Track Project 1
 
-This is my first project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
+## Landing Page Project
 
-I have added the sections via JavaScript.
+*This project contains 4 Sections intially and another sections can be added dynamically using the add button while keeping the navigation menu updated after adding new sections*
 
-I created a function to create a link for each section.
-
-Modified the active class properties for both section and link.
-
-I made a button to create additional partitions.
-
-I made an icon to go to the top of the page.
-
-I made the icon appear after scaling to 800 pixels.
-
-I made the link header disappear after 8 seconds and reappear with just a scroll.
